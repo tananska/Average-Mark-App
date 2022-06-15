@@ -1,0 +1,19 @@
+C:\Users\Iva\Desktop\visual studio\AverageMark\AverageMark\bin\Debug\AverageMark.exe.config
+C:\Users\Iva\Desktop\visual studio\AverageMark\AverageMark\bin\Debug\AverageMark.exe
+C:\Users\Iva\Desktop\visual studio\AverageMark\AverageMark\bin\Debug\AverageMark.pdb
+C:\Users\Iva\Desktop\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.csprojResolveAssemblyReference.cache
+C:\Users\Iva\Desktop\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.Form1.resources
+C:\Users\Iva\Desktop\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.Properties.Resources.resources
+C:\Users\Iva\Desktop\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.csproj.GenerateResource.Cache
+C:\Users\Iva\Desktop\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.exe
+C:\Users\Iva\Desktop\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\AverageMark\AverageMark\bin\Debug\AverageMark.exe.config
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\AverageMark\AverageMark\bin\Debug\AverageMark.exe
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\AverageMark\AverageMark\bin\Debug\AverageMark.pdb
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.csproj.AssemblyReference.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.Form1.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.Properties.Resources.resources
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.csproj.GenerateResource.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.csproj.CoreCompileInputs.cache
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.exe
+C:\Users\Ива\OneDrive\Документи\visual studio\visual studio\AverageMark\AverageMark\obj\Debug\AverageMark.pdb
